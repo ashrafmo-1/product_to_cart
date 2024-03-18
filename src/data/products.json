@@ -1,0 +1,37 @@
+[
+  {
+    "id": "0",
+    "name": "asus",
+    "price": "1200",
+    "quantity": "29",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "mac",
+    "price": "2950",
+    "quantity": "10",
+    "image": ""
+  },
+  {
+    "id": "2",
+    "name": "dell",
+    "price": "2020",
+    "quantity": "22",
+    "image": ""
+  },
+  {
+    "id": "3",
+    "name": "hp",
+    "price": "1360",
+    "quantity": "15",
+    "image": ""
+  },
+  {
+    "id": "4",
+    "name": "lenovo",
+    "price": "900",
+    "quantity": "11",
+    "image": ""
+  }
+]
